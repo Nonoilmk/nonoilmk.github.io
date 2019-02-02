@@ -1,3 +1,1 @@
-# Test Website for nonoil ptg Mk
-Nonoil PTG MK
-by Patriachz
+# Test Website for nonoil ptg Mk Nonoil PTG MK by Patriachz
